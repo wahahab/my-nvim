@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/jerry/.tmux'
+let g:netrw_dirhist_2='/home/jerry/repos/ip-broadcasting/src'
+let g:netrw_dirhist_3='/home/jerry/repos'
+let g:netrw_dirhist_4='/home/jerry/repos/ip-broadcasting'
+let g:netrw_dirhist_5='/home/jerry/repos'
+let g:netrw_dirhist_6='/tmp/geth-linux-amd64-1.8.3-329ac18e'
