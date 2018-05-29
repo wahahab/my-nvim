@@ -10,8 +10,10 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
-
+"Plugin 'Valloric/YouCompleteMe'
 Plugin 'scrooloose/nerdcommenter'
+Plugin 'scrooloose/nerdtree'
+Plugin 'fholgado/minibufexpl.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -89,6 +91,8 @@ map <F7> :make<CR>
 map <S-F7> :make clean all<CR>
 " goto definition with F12
 map <F12> <C-]>
+" Open NERTree
+map <C-T> :NERDTreeToggle<CR>
 " in diff mode we use the spell check keys for merging
 if &diff
   ” diff settings
@@ -106,7 +110,7 @@ else
   map <M-Up> [s
 endif
 
-" let g:solarized_termcolors=256
+let g:solarized_termcolors=256
 set termguicolors
 " let g:solarized_use16 = 1
 

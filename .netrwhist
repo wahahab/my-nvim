@@ -1,8 +1,8 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/jerry/.tmux'
-let g:netrw_dirhist_2='/home/jerry/repos/ip-broadcasting/src'
-let g:netrw_dirhist_3='/home/jerry/repos'
-let g:netrw_dirhist_4='/home/jerry/repos/ip-broadcasting'
-let g:netrw_dirhist_5='/home/jerry/repos'
-let g:netrw_dirhist_6='/tmp/geth-linux-amd64-1.8.3-329ac18e'
+let g:netrw_dirhist_1='/tmp/wiwynn_RSD/RSD_2.3_pre_beta/psme/common/database'
+let g:netrw_dirhist_2='/tmp/wiwynn_RSD/RSD_2.3_pre_beta/psme/agent'
+let g:netrw_dirhist_3='/tmp/wiwynn_RSD/RSD_2.3_pre_beta/psme/common/json'
+let g:netrw_dirhist_4='/tmp/wiwynn_RSD/RSD_2.3_pre_beta/psme/common/json-cxx'
+let g:netrw_dirhist_5='/home/jerry/.local/lib/python2.7/site-packages/flasgger'
+let g:netrw_dirhist_6='/tmp/wiwynn_RSD/RSD_2.3_pre_beta/psme/common/wiwynn/src'
